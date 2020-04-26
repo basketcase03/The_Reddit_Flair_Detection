@@ -1,0 +1,17 @@
+<HTML>
+	<head>
+		<title>Reddit Flair Detection</title>
+	</head>
+	<body>
+		<form action="{% url 'rflair' %}" method="post">
+				{% csrf_token %}
+				<input type="url" name="reddit_url">
+				<button type="submit" value="Get_flair">Get the flair of post</button>
+		</form>
+	{% if sub_text %}
+	{{sub_text}}
+	{% endif %}
+		
+	</body>
+
+</HTML>
