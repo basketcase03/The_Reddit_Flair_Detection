@@ -1,24 +1,24 @@
 # The_Reddit_Project
  
- The Jupyter Notebooks:
-This folder contains all the three jupyter notebooks along with the final dataset saved as a .csv file. It also contains a folder called attempts, which has all the previous attempts at the final notebooks.                   
-Gathering Data Final - Contains the data gathering process.    
-Exploratory Data Analysis Final - Contains the data exploring process.        
-nl_algo - Contains the application of ML alogorithms to collected data. Also includes analysis of the algorithms in form of the classification report, confusion matrix and accuracy score.           
+ ### The Jupyter Notebooks:
+This folder contains all the three jupyter notebooks along with the final dataset saved as a .csv file. It also contains a folder called attempts, which has all the previous attempts at the final notebooks.                        
+#### Gathering Data Final - Contains the data gathering process.    
+#### Exploratory Data Analysis Final - Contains the data exploring process.        
+#### ml_algo - Contains the application of ML alogorithms to collected data. Also includes analysis of the algorithms in form of the classification report, confusion matrix and accuracy score.           
 
-The_Django_Website:           
+### The_Django_Website:           
 Contains the django app. It makes use of the django rest framework for the api.              
-Procfile,nltk.txt and requirements.txt are needed to deploy it on Heroku.             
-The webapp contains the information regarding the website.          
-The api contains information regarding the api.            
+#### Procfile,nltk.txt and requirements.txt are needed to deploy it on Heroku.             
+#### The webapp contains the information regarding the website.          
+#### The api contains information regarding the api.            
 
-Requirements-
+### Requirements-
 
-We need a Reddit account :
+#### We need a Reddit account :
 Then go to apps and create an app ( it needs to be a script )
 Use the information to set up Reddit instance ( client_id, client_secret, username, password, user_agent ) in the data gathering notebook.
 
-We also need a Google Could Platform account :
+#### We also need a Google Could Platform account :
 Create service account and download the JSON file with credentials and enter the path in the data gathering notebook in front of the GOOGLE_APPLICATION_CREDENTIALS.
 
 (Python  : Python 3.7.3)
