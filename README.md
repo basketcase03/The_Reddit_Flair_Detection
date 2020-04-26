@@ -1,7 +1,7 @@
 # The_Reddit_Project
  
  The Jupyter Notebooks:
-This folder contains all the three jupyter notebooks along with the final dataset saved as a .csv file. It also contains a folder called attempts, which has all the previous attempts at the final notebooks.
+This folder contains all the three jupyter notebooks along with the final dataset saved as a .csv file. It also contains a folder called attempts, which has all the previous attempts at the final notebooks.                   
 Gathering Data Final - Contains the data gathering process.    
 Exploratory Data Analysis Final - Contains the data exploring process.        
 nl_algo - Contains the application of ML alogorithms to collected data. Also includes analysis of the algorithms in form of the classification report, confusion matrix and accuracy score.           
