@@ -2,15 +2,15 @@
  
  The Jupyter Notebooks:
 This folder contains all the three jupyter notebooks along with the final dataset saved as a .csv file. It also contains a folder called attempts, which has all the previous attempts at the final notebooks.
-Gathering Data Final - Contains the data gathering process.
-Exploratory Data Analysis Final - Contains the data exploring process.
-nl_algo - Contains the application of ML alogorithms to collected data. Also includes analysis of the algorithms in form of the classification report, confusion matrix and accuracy score.
+Gathering Data Final - Contains the data gathering process.    
+Exploratory Data Analysis Final - Contains the data exploring process.        
+nl_algo - Contains the application of ML alogorithms to collected data. Also includes analysis of the algorithms in form of the classification report, confusion matrix and accuracy score.           
 
-The_Django_Website:
-Contains the django app. It makes use of the django rest framework for the api.
-Procfile,nltk.txt and requirements.txt are needed to deploy it on Heroku. 
-The webapp contains the information regarding the website.
-The api contains information regarding the api.
+The_Django_Website:           
+Contains the django app. It makes use of the django rest framework for the api.              
+Procfile,nltk.txt and requirements.txt are needed to deploy it on Heroku.             
+The webapp contains the information regarding the website.          
+The api contains information regarding the api.            
 
 Requirements-
 
@@ -103,7 +103,7 @@ urllib3==1.25.9
 websocket-client==0.57.0
 whitenoise==5.0.1
 
-To host the website, copy the root directory (RedditFlair). Go inside it and start the server using manage.py
+To host the website, copy the root directory (RedditFlair).Start the server using manage.py
 
 Website : https://test2muskan.herokuapp.com/flairr  
 API : https://test2muskan.herokuapp.com/automated_testing
