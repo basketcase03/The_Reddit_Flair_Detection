@@ -104,3 +104,6 @@ websocket-client==0.57.0
 whitenoise==5.0.1
 
 To host the website, copy the root directory (RedditFlair). Go inside it and start the server using manage.py
+
+Website : https://test2muskan.herokuapp.com/flairr  
+API : https://test2muskan.herokuapp.com/automated_testing
