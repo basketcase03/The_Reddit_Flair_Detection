@@ -26,6 +26,6 @@ sklearn==0.0
 sqlparse==0.3.1
 tqdm==4.45.0
 update-checker==0.16
-urllib3==1.25.9
+urllib3==1.26.5
 websocket-client==0.57.0
 whitenoise==5.0.1
